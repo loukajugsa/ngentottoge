@@ -1,2 +1,1 @@
-# ngentottoge
-ngentottoge
+# [ngentottoge](https://ngentottoge.pages.dev)
